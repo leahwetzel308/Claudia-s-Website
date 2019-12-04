@@ -7,7 +7,7 @@ div
 { 2px solid orange;
 }
 .banner-with-header {
-background-image: url(https://www.pastepic.xyz/images/2019/11/25/IMG_6367e5f3570dcc2031fd.jpg);
+background-image: url(images/IMG_6367.jpg);
   background-size:cover;
   min-height: 10vh;
   background-position: 50% 50%;
@@ -63,7 +63,7 @@ font-style:italic;
 .centered{
   max-width: 100%;
   height: auto;
-  padding: 5%;
+  padding: 2%;
   text-align: center;
 }
 
@@ -102,4 +102,16 @@ margin-bottom: 19px;}
 
 .image-1 {
   margin: 15px auto 0;
+}
+
+.footerquote {
+  text-align: center;
+}
+
+.banner{
+  background-image:url(images/IMG_6367.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 80vh;
 }

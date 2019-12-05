@@ -104,12 +104,29 @@ margin-bottom: 19px;}
   margin: 15px auto 0;
 }
 
-.footerquote {
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+}
+
+.footernav{
   text-align: center;
 }
 
-.banner{
-  background-image:url(images/IMG_6367.jpg);
+.footerbutton{
+  text-align: center;
+}
+
+
+.navcontact {
+  border-right:
+}
+
+.contactbanner {
+  background-image: url(images/IMG_6367.jpg);
   background-size: cover;
   background-position: center;
   min-height: 80vh;

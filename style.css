@@ -105,7 +105,6 @@ margin-bottom: 19px;}
 }
 
 footer {
-   position:fixed;
    left:0px;
    bottom:0px;
    height:30px;
@@ -130,4 +129,18 @@ footer {
   background-size: cover;
   background-position: center;
   min-height: 80vh;
+}
+
+input,textarea{
+  display: block;
+  width: 50%;
+  padding: 1rem;
+  margin: 1.5rem auto;
+  border: none;
+  border-bottom: 1px solid;
+  resize: none;
+}
+
+[type="submit"]{
+  border: 1px solid
 }

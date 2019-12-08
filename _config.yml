@@ -1,0 +1,6 @@
+permalink: /:year/:title
+
+collections:
+  archives:
+    output: true
+    

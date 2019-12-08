@@ -75,8 +75,8 @@ font-style:italic;
 
 .about {
   background: #f4f4f1;
-  padding: 10px;
-  margin: 15px auto 0;
+  padding: 60px;
+  margin: 10px;
   text-align: center;
 }
 
@@ -124,11 +124,15 @@ footer {
   border-right:
 }
 
-.contactbanner {
-  background-image: url(images/IMG_6367.jpg);
+.mainbanner {
+  background-image:url(/images/IMG_6367.jpg);
   background-size: cover;
   background-position: center;
   min-height: 80vh;
+}
+
+.fixed {
+background-attachment: fixed
 }
 
 input,textarea{
@@ -143,4 +147,9 @@ input,textarea{
 
 [type="submit"]{
   border: 1px solid
+}
+
+.gif{
+  display: block;
+  width: 100%;
 }

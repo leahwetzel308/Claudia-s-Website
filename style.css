@@ -74,34 +74,35 @@ font-style:italic;
 }
 
 .about {
-  background: #f4f4f1;
+  /* background: #f4f4f1; */
   padding: 60px;
   margin: 10px;
   text-align: center;
 }
 
 .text-1 {
-  background: #f4f4f1;
-    padding: 10px;
+  /* background: #f4f4f1; */
     margin: 15px auto 0;
     margin-bottom: 18px;
+    padding: 8%;
 }
 
 .text-2 {
-  background: #f4f4f1;
-  padding: 10px;
+  /* background: #f4f4f1; */
+  padding: 8%;
   margin: 1px auto 0;
   margin-bottom: 19px;
 }
 
 .text-3 {
-background: #f4f4f1;
-padding: 10px;
+/* background: #f4f4f1; */
+padding: 8%;
 margin: 1px auto 0;
 margin-bottom: 19px;}
 
 .image-1 {
   margin: 15px auto 0;
+  padding: 8%;
 }
 
 footer {
@@ -152,4 +153,4 @@ input,textarea{
 .gif{
   display: block;
   width: 100%;
-}
+  }

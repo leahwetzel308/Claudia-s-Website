@@ -164,3 +164,16 @@ padding: 8%;
 .banner_image{
   background-attachment: fixed;
 }
+
+
+.gridbutton
+{
+border: 1px solid black;
+padding: 1rem;
+display: inline-block;
+margin: .5rem;
+}
+
+.gridbutton:hover{
+  background-color: grey;
+}

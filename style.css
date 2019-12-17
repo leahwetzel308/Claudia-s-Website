@@ -7,11 +7,12 @@ div
 { 2px solid orange;
 }
 .banner-with-header {
-background-image: url(images/IMG_6367.jpg);
-  background-size:cover;
-  min-height: 10vh;
-  background-position: 50% 50%;
-  padding: 33%;
+background-image: url(/images/IMG_5540.jpg);
+background-size:cover;
+min-height: 10vh;
+background-position: 50% 50%;
+padding: 33%;
+background-attachment: fixed;
   }
 
 h1,h2,p{
@@ -130,11 +131,10 @@ footer {
   background-size: cover;
   background-position: center;
   min-height: 80vh;
+  background-attachment: fixed;
 }
 
-.fixed {
-background-attachment: fixed
-}
+
 
 input,textarea{
   display: block;
@@ -158,4 +158,9 @@ input,textarea{
 .image-3
 {
 padding: 8%;
+}
+
+
+.banner_image{
+  background-attachment: fixed;
 }

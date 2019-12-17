@@ -168,12 +168,30 @@ padding: 8%;
 
 .gridbutton
 {
-border: 1px solid black;
+border: 1px solid grey;
 padding: 1rem;
 display: inline-block;
 margin: .5rem;
 }
 
 .gridbutton:hover{
+  background-color: grey;
+}
+
+.aboutbutton
+{
+  border: 1px solid grey;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 2rem;
+  /* display: block; */
+}
+
+.paragraphs {
+  padding: 3rem;
+  padding-top: 1rem;
+}
+
+.aboutbutton:hover {
   background-color: grey;
 }

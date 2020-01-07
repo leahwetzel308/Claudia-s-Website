@@ -113,11 +113,12 @@ footer {
 
 .footernav{
   text-align: center;
+  margin-bottom: 2%;
 }
 
 .footerbutton{
   text-align: center;
-  margin-bottom: 1%;
+  margin-bottom: 2%;
 }
 
 
@@ -171,6 +172,8 @@ border: 1px solid grey;
 padding: 1rem;
 display: inline-block;
 margin-right: 5px;
+margin-left: 8rem;
+margin-top: 2rem;
 }
 
 .gridbutton:hover{
@@ -211,15 +214,15 @@ margin-right: 5px;
 
 
 .navvy{
-padding-left: 8rem;
-word-spacing: 2px;
+/* padding-left: 8rem; */
+word-spacing: 4px;
 text-align: end;
 }
 
 h1, h2, a {
   font-family: 'Qwigley', cursive;
   letter-spacing: 3px;
-  font-size: 22px;
+  font-size: 26px;
 }
 
 p {
@@ -336,6 +339,10 @@ font-display: swap;
 .index3images
 {
   text-align: center;
+}
+
+.index3text
+{margin-left: 2rem;
 }
 
 a:hover{
